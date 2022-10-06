@@ -24,5 +24,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/TangoAlphaN/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt"Nathalie">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangoAlphaN" alt"Nathalie">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TangoAlphaN" alt"Nathalie">
 </div>
