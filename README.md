@@ -21,11 +21,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TangoAlphaN" alt"Nathalie">
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangoAlphaN" alt"Nathalie">
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TangoAlphaN" alt"Nathalie">
