@@ -22,3 +22,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TangoAlphaN" alt"Nathalie">
 </div>
+
+<div align="center">
+  <img src=https://raw.githubusercontent.com/TangoAlphaN/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt"Nathalie">
+</div>
