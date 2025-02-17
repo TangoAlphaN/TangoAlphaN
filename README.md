@@ -10,9 +10,9 @@
 <p align="center"> French student <br>
 <a href="https://exercism.org/dashboard" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/> </a></p><br>
 
-- 🌱 I’m currently learning **Three.JS** and **Vue.JS** 
+- :man_student: I'm currently a work-study IT engineer.
 
-- 📫 How to reach me **parissenathalie@orange.fr**
+- 📫 How to reach me **nathalie.parisse@viacesi.fr**
 
 <p align="center"><a href="https://www.linkedin.com/in/nathalie-parisse-800ab8234/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linjedin"/> </a></p><br>
 
