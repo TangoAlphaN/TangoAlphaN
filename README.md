@@ -10,7 +10,7 @@
 <p align="center"> French student <br>
 <a href="https://exercism.org/dashboard" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/> </a></p><br>
 
-- :man_student: I'm currently a work-study IT engineer.
+- IT engineer
 
 - :e-mail: How to reach me **nathalie.parisse@viacesi.fr**
 
