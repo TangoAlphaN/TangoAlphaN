@@ -10,7 +10,7 @@
 <p align="center"> French IT Engineer <br>
 <!--<a href="https://exercism.org/dashboard" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/> </a></p><br>-->
 
-- :e-mail: How to reach me **nathalie.parisse@viacesi.fr**
+<p align="center"> :e-mail: How to reach me **nathalie.parisse@viacesi.fr** </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/nathalie-parisse-800ab8234/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linjedin"/> </a></p><br>
 
